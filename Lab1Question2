@@ -1,0 +1,19 @@
+public class Lab12 {
+
+	public static void main(String[] args) {
+		System.out.println("//////////////////////");
+		printTask();
+		printTask();
+		printTask();
+		printTask();
+		printTask();
+		
+		}
+
+		private static void printTask() 
+		{
+			System.out.println("|| Victory is mine  ||");
+			System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+		}
+
+	}
