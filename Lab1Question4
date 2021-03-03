@@ -1,0 +1,42 @@
+public static void main(String[] args) {
+		drawegg();
+		System.out.println();
+		lineofegg();
+		drawegg();
+	}
+public static void topofegg() 
+{
+	System.out.println("  _______");
+	System.out.println(" /       \\");
+	System.out.println("/         \\");
+}
+public static void bottomofegg() 
+{
+	System.out.println("\\         /");
+	System.out.println(" \\_______/");
+}
+public static void lineofegg() 
+{
+	System.out.println("-\"-'-\"-'-\"-");	
+}
+public static void drawegg()
+{
+topofegg();
+bottomofegg();
+}
+
+/*
+  _______
+ /       \
+/         \
+\         /
+ \_______/
+
+-"-'-"-'-"-
+  _______
+ /       \
+/         \
+\         /
+ \_______/
+ 
+ */
